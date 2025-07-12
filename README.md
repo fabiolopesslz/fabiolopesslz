@@ -1,57 +1,44 @@
-## Hi there 👋
+# Fábio Lopes - Analista de Infraestrutura 🖥️⚙️
 
-<!--
-**fabiolopesslz/fabiolopesslz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># 👋 Olá, eu sou o Fábio Lopes
-
-Sou administrador de sistemas Linux, entusiasta de automações com Shell Script e apaixonado por infraestrutura, DevOps e monitoramento.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/fabiolopesslz/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/fabiolopesslz)
+[![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&style=flat)](mailto:fabiolopesslz@gmail.com)
 
 ---
 
-## 🚀 Tecnologias que trabalho
+## Sobre mim
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash)
-![Zabbix](https://img.shields.io/badge/Zabbix-red?style=for-the-badge&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+Analista de Infraestrutura com experiência em ambientes VMware, administração de servidores Linux e Windows Server, configuração de firewall pfSense, monitoramento com Zabbix e gestão de servidores web Apache e Nginx.  
+Foco em automação, segurança e alta disponibilidade.
 
 ---
 
-## 📂 Meus principais repositórios
+## Tecnologias
 
-- [📘 Scripts de Instalação Moodle e Monitoramento](https://github.com/fabiolopesslz/moodle-install)
-- [🧰 Utilitários de automação Linux](https://github.com/fabiolopesslz/linux-tools)
-- [📊 Integrações com Zabbix, Grafana e Veeam](https://github.com/fabiolopesslz/zabbix-veeam-grafana)
-
----
-
-## 📊 GitHub Stats
-
-![Fábio Lopes GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabiolopesslz&show_icons=true&theme=dark&hide_border=true)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolopesslz&layout=compact&theme=dark&hide_border=true)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/) 
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windowsserver)
+[![pfSense](https://img.shields.io/badge/pfSense-6CA0DC?style=for-the-badge&logo=pfsense&logoColor=white)](https://www.pfsense.org/)
+[![Zabbix](https://img.shields.io/badge/Zabbix-1E8BCC?style=for-the-badge&logo=zabbix&logoColor=white)](https://www.zabbix.com/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
 
 ---
 
-## 📫 Contato
+## Projetos
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabiolopesslz/)
-- 📧 Email: [fabiolopesslz@gmail.com](mailto:fabiolopesslz@gmail.com)
+### Automação para liberação de cache Linux  
+Script em Bash para limpeza de cache em servidores Linux, melhorando performance e facilitando deploys.  
+[Ver projeto](https://github.com/fabiolopesslz/script-liberar-cache-linux)
+
+### Monitoramento personalizado com Zabbix  
+Templates e integrações para monitorar servidores e aplicações críticas.  
+[Ver projeto](https://github.com/fabiolopesslz/zabbix-templates)
 
 ---
 
-> “Automatize tudo que for repetitivo. Seu tempo é valioso.” – Fábio Lopes
+## Contato
+
+📧 fabiolopesslz@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/fabiolopesslz/)
 
