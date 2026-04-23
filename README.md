@@ -35,6 +35,10 @@ Script em Bash para limpeza de cache em servidores Linux, melhorando performance
 Templates e integrações para monitorar servidores e aplicações críticas.  
 [Ver projeto](https://github.com/fabiolopesslz/zabbix-templates)
 
+### Painel de monitoramento Nginx em Python  
+Dashboard web v1.0 com métricas de `stub_status`, parsing de `access.log` e `error.log`, com atualização em tempo real para operação e troubleshooting (porta 5999).  
+[Ver projeto](./dashboard_nginx/nginx_monitoring_panel)
+
 ---
 
 ## Contato
