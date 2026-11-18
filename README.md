@@ -1,48 +1,52 @@
-# Fábio Lopes - Analista de Infraestrutura 🖥️⚙️
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/fabiolopesslz/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/fabiolopesslz)
-[![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&style=flat)](mailto:fabiolopesslz@gmail.com)
+# Olá, eu sou o Fábio Lopes 👋
+**Systems Administrator • DevOps & Infrastructure Engineer • Automation Developer**
 
----
+📍 São Luís, Maranhão - Brasil
 
-## Sobre mim
+[![GitHub](https://img.shields.io/badge/GitHub-fabiolopesslz-181717?style=for-the-badge&logo=github)](https://github.com/fabiolopesslz)
 
-Analista de Infraestrutura com experiência em ambientes VMware, administração de servidores Linux e Windows Server, configuração de firewall pfSense, monitoramento com Zabbix e gestão de servidores web Apache e Nginx.  
-Foco em automação, segurança e alta disponibilidade.
+</div>
 
 ---
 
-## Tecnologias
+### 🧑‍💻 Sobre mim
 
-[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/) 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windowsserver)
-[![pfSense](https://img.shields.io/badge/pfSense-6CA0DC?style=for-the-badge&logo=pfsense&logoColor=white)](https://www.pfsense.org/)
-[![Zabbix](https://img.shields.io/badge/Zabbix-1E8BCC?style=for-the-badge&logo=zabbix&logoColor=white)](https://www.zabbix.com/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
-[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+Especialista em **Infraestrutura de TI**, administração de sistemas Linux e arquitetura de redes e microsserviços. Atuo no provisionamento de servidores de alta disponibilidade, virtualização corporativa, segurança de perímetro, observabilidade e automação de rotinas operacionais com Shell Script e Python.
 
----
-
-## Projetos
-
-### Automação para liberação de cache Linux  
-Script em Bash para limpeza de cache em servidores Linux, melhorando performance e facilitando deploys.  
-[Ver projeto](https://github.com/fabiolopesslz/script-liberar-cache-linux)
-
-### Monitoramento personalizado com Zabbix  
-Templates e integrações para monitorar servidores e aplicações críticas.  
-[Ver projeto](https://github.com/fabiolopesslz/zabbix-templates)
-
-### Painel de monitoramento Nginx em Python  
-Dashboard web v1.0 com métricas de `stub_status`, parsing de `access.log` e `error.log`, com atualização em tempo real para operação e troubleshooting (porta 5999).  
-[Ver projeto](./dashboard_nginx/nginx_monitoring_panel)
+- 🖥️ **Infraestrutura & Sistemas:** Administração *terminal-first* em ambientes Debian Linux, kernel tuning, auditoria de volumetria e gestão de ativos.
+- 🐳 **Containers & Microsserviços:** Orquestração com Docker Compose, proxies reversos (Nginx), bancos relacionais (PostgreSQL/pgvector) e filas/cache (Redis).
+- 🌐 **Redes & Segurança:** Firewalls pfSense, roteamento MikroTik, SDN (Omada), VPNs e segmentação de redes críticas.
+- 📊 **Observabilidade & Automação:** Monitoramento corporativo com Zabbix, scripts de provisionamento automatizado e integrações via APIs REST e MQTT.
 
 ---
 
-## Contato
+### 🛠️ Stack & Ferramentas
 
-📧 fabiolopesslz@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/fabiolopesslz/)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 
+---
+
+### 📈 Estatísticas no GitHub
+
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiolopesslz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolopesslz&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
